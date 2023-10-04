@@ -1,0 +1,7 @@
+{
+  "name": "gepayments",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
